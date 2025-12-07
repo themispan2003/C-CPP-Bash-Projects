@@ -1,0 +1,10 @@
+student1 1000 project1 = 30 project2 = 70 total = 100
+student10 1001 project1 = 0 project2 = 70 total = 70
+student2 2000 project1 = 0 project2 = 70 total = 70
+student3 3000 project1 = 30 project2 = 0 total = 30
+student4 4000 project1 = 30 project2 = 70 total = 100
+student5 5000 project1 = 30 project2 = 70 total = 100
+student6 6000 project1 = 0 project2 = 0 total = 0
+student7 7000 project1 = 0 project2 = 70 total = 70
+student8 8000 project1 = 30 project2 = 0 total = 30
+student9 9000 project1 = 30 project2 = 70 total = 100
