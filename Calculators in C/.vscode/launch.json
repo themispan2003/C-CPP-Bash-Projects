@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/themispanagis/Desktop/C_C++_Bash_Projects/Calculators in C",
+      "program": "/Users/themispanagis/Desktop/C_C++_Bash_Projects/Calculators in C/build/Debug/outDebug"
+    }
+  ]
+}

@@ -96,7 +96,7 @@ double evaluate(const char *expr) {
             continue;
         }
 
-        printf("Άγνωστος χαρακτήρας: %c\n", expr[i]);
+        printf("Invalid character: %c\n", expr[i]);
         exit(1);
     }
 
